@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+0769eccba5fcf434e7879fd62c1c955d6dea8d88 refs/remotes/origin/1-hello-world
+6f8837bfaf868bed299ecca8aa8c9fc681fa1f65 refs/remotes/origin/2-structured-data
+92325aa49de4be71a018647a93cc919db106974b refs/remotes/origin/fix-kubernetes
+c32138658f35dd8f71aa3f791a4cda2cfc74bee1 refs/remotes/origin/gcloud-install
+79825212b6c09af14de4f3cded23b0731c65c51f refs/remotes/origin/kokoro
+c3fd0fec8b680de32bf1cee16c5106665cbcd710 refs/remotes/origin/master
+6afb25c676a243bce8642218081abb720ce68a6c refs/remotes/origin/msampathkumar-patch-1
+83ef9a57e5de72e11a4fbf2c65e06989dfab8727 refs/remotes/origin/steps
